@@ -1,14 +1,14 @@
 {
-    "name": "botman/tinker",
+    "name": "chfur/botman-tinker",
     "license": "MIT",
-    "description": "BotMan tinker command for your Laravel BotMan project",
+    "description": "Fork BotMan tinker command for your Laravel BotMan project",
     "keywords": [
         "Bot",
         "BotMan",
         "Laravel",
         "Tinker"
     ],
-    "homepage": "http://github.com/botman/tinker",
+    "homepage": "http://github.com/chfur/botman-tinker",
     "authors": [
         {
             "name": "Marcel Pociot",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "botman/botman": "~2.0",
+        "belivey/botman": "^2.6",
         "clue/stdio-react": "^2.0",
         "illuminate/support": "~5.5.0 || ~5.6.0 || ~5.7.0 || ~5.8.0 || ^6.0 || ^7.0 || ^8.0",
         "illuminate/console": "~5.5.0 || ~5.6.0 || ~5.7.0 || ~5.8.0 || ^6.0 || ^7.0 || ^8.0"
